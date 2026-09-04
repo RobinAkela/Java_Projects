@@ -1,0 +1,9 @@
+Denna kod får ett antal punkter i ett 
+n-dimensionellt koordinatsystem, en punkt per rad. För att sedan beräkna den sammanlagda längden av den brutna linje som förbinder punkterna i den ordning de ges.
+
+Indata måste bestå av ett antal rader. Varje rad bör innehålla en punkt angiven som en lista av heltalskoordinater inom hakparenteser, till exempel [1, 2]. 
+Alla punkter har samma antal koordinater (rummets dimension). 
+Alla koordinater är heltal i intervallet [min_int, max_int]. 
+Indata måste innehålla som minst två rader, med antagandet att storleken på indatan är mindre än 100 MB.
+
+Koden skriver slutligen ut det sammanlagda avståndet längs de linjesegment som förbinder punkterna i angiven ordning, avrundat till två decimaler.
